@@ -1,9 +1,11 @@
-1. cd nodejs-example-logs-api-extension
+1.
+cd nodejs-example-logs-api-extension
 chmod +x index.js
 npm install
 cd ..
 
-2. chmod +x extensions/nodejs-example-telemetry-api-extension
+2. 
+chmod +x extensions/nodejs-example-telemetry-api-extension
 zip -r extension.zip ./nodejs-example-telemetry-api-extension
 zip -r extension.zip ./extensions
 
