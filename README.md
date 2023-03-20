@@ -1,4 +1,4 @@
-1. instal packages
+1. install packages
 ```bash
 cd nodejs-example-logs-api-extension
 chmod +x index.js
