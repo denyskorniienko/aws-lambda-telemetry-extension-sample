@@ -1,4 +1,4 @@
-1.
+1. instal packages
 ```bash
 cd nodejs-example-logs-api-extension
 chmod +x index.js
@@ -6,7 +6,7 @@ npm install
 cd ..
 ```
 
-2.
+2. create extension.zip
 ```bash
 chmod +x extensions/nodejs-example-telemetry-api-extension
 zip -r extension.zip ./nodejs-example-telemetry-api-extension
